@@ -1,0 +1,22 @@
+# Logs #
+*.log
+
+# Process ID file #
+*.pid
+
+# IntelliJ IDEA #
+.idea/
+.ideaDataSources
+*.iws
+*.iml
+*.ipr
+*.ids
+
+# Gradle #
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# Output directory #
+build/
